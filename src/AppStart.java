@@ -3,7 +3,11 @@ import javax.swing.SwingUtilities;
 
 public class AppStart {
 
-	// WHY IS THIS NOT WORKING`?
+	// It semms its working
+	
+	//test
+	private int bla = 1;
+	
 	public static void main(String[] args) {
 		
 		// when i change sth
