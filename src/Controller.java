@@ -20,7 +20,7 @@ public class Controller implements ActionListener{
 		// init game field with 0
 		for(int i = 0; i < 3; i++){
 			for(int j = 0; j < 3; j++){
-				model.getGameField()[i][j] = 0;
+				this.field[i][j] = 0;
 			}
 		}
 		// tell model
