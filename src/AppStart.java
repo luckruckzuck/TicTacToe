@@ -3,7 +3,7 @@ import javax.swing.SwingUtilities;
 
 public class AppStart {
 
-	// It semms its working
+	// Does this work?!
 	
 	//test
 	private int bla = 1;
