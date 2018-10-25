@@ -5,13 +5,10 @@ import java.awt.event.ActionListener;
 public class Controller implements ActionListener{
 	
 	private Model model;
-	private View view;
 	private int[][] field;
 
 	public Controller(Model model){
 		this.model = model;
-		// TODO wird die View im Controller erzeugt?!
-		// this.view = new View(model, this);
 	}
 	
 	// init gamefield
