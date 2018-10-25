@@ -14,7 +14,7 @@ public class Model extends Observable{
 	private int[][] gameField;
 	
 	/*
-	 * 0 -> first player; length -> last player. NOw only has length 2
+	 * 0 -> first player; 1 -> last player. NOw only has length 2
 	 */
 	private int[] playerrotation;
 	
